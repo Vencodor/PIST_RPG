@@ -1,0 +1,5 @@
+name: PIST-Core
+version: 1.0.0
+main: main.java.pist.vencoder.Main
+description: PistServer Core
+commands:
